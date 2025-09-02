@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // API Configuration
-const API_BASE_URL = 'https://mzhyi8cdg93m.manus.space';
+const API_BASE_URL = 'const API_BASE_URL = 'https://painel-admin-madona.onrender.com';
 
 // Load Blogs from API
 async function loadBlogs() {
